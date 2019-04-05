@@ -1,6 +1,6 @@
 {  
-  "name": "My PWA",  
-  "short_name": "My PWA",  
+  "name": "あぷり",  
+  "short_name": "pwa",  
   "icons": [    
     {  
       "src": "/demo-my-pwa/icon_192x192.png",  
